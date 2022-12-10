@@ -61,7 +61,6 @@ function onModalViewImg(event) {
   }
 }
 
-// console.log(onModalViewImg);
 // console.log(basicLightbox);
 
 console.log(galleryItems);
